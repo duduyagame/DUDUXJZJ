@@ -1,0 +1,9 @@
+#XXXP 2-> 20000
+/Lotus/Types/Boosters/AffinityBooster
+s|Value=2|Value=6
+#WWWZ
+/Lotus/Types/Boosters/ResourceAmountBooster
+s|Value=2|Value=4
+#WWWZZZDDDLL
+/Lotus/Types/Boosters/ResourceDropChanceBooster 
+s|Value=2|Value=4
