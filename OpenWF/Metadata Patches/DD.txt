@@ -3,7 +3,10 @@
 s|Value=2|Value=6
 #WWWZ
 /Lotus/Types/Boosters/ResourceAmountBooster
-s|Value=2|Value=4
+s|Value=2|Value=5
 #WWWZZZDDDLL
 /Lotus/Types/Boosters/ResourceDropChanceBooster 
-s|Value=2|Value=4
+s|Value=2|Value=5
+#MMMMMDDDL
+/Lotus/Types/Boosters/ModDropChanceBooster
+r|Value=2|Value=5
