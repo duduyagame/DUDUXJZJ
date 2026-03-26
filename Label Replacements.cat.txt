@@ -1,5 +1,0 @@
-/Menu/ProjectName: DUDU星际战甲Warframe [OpenWF]
-/Lotus/Language/Launcher/UPDATE_TITLE:  DUDU群服星际战甲 花钱买的说明你被骗了
-/Lotus/Language/DesignCouncilTips/DC_Tip30: 注意这是一个免费服如果你在交易平台购买说明你被骗了
-/Lotus/Language/DesignCouncilTips/DC_Tip274: 注意这是一个免费服如果你在交易平台购买说明你被骗了
-/Lotus/Language/DesignCouncilTips/DC_Councillor: 注意这是一个免费服如果你在交易平台购买说明你被骗了
