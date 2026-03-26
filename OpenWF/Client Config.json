@@ -32,7 +32,7 @@
     "write_patched_metadata_reads_to_console": false,
     "write_patched_metadata_reads_to_ee_log": false,
     "client_http_logging": false,
-    "client_http_port": 5155,
+    "client_http_port": 5395,
     "disable_overlay": false,
     "overlay_compatibility_mode": false,
     "keep_console_open": false
