@@ -1,12 +1,12 @@
 #XXXP 2-> 20000
 /Lotus/Types/Boosters/AffinityBooster
-s|Value=2|Value=4
+s|Value=2|Value=3.5
 #WWWZ
 /Lotus/Types/Boosters/ResourceAmountBooster
-s|Value=2|Value=4
+s|Value=2|Value=3.5
 #WWWZZZDDDLL
 /Lotus/Types/Boosters/ResourceDropChanceBooster 
-s|Value=2|Value=4
+s|Value=2|Value=3.5
 #MMMMMDDDL
 /Lotus/Types/Boosters/ModDropChanceBooster
-r|Value=2|Value=4
+r|Value=2|Value=3.5
