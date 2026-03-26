@@ -6,7 +6,8 @@ LocalizeTag=/Lotus/Language/Items/PoisonDamageRifleMod
 Icon=/Lotus/Interface/Cards/Images/Rifle/PoisonDamageRifleMod.png
 ExcludeFromCodex=0
 ArtifactPolarity=AP_TACTIC
-BaseDrain=QA_HIGH
+BaseDrain=1
+FusionLimit=QA_HIGH
 ItemCompatibility=/Lotus/Weapons/Tenno/Rifle/LotusRifle
 IncludeInBoosterPack=1
 
