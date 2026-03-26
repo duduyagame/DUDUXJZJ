@@ -69,7 +69,7 @@ AllowConditionalLocMerge=0
 {
 UpgradeType=WEAPON_FIRE_RATE
 OperationType=STACKING_MULTIPLY
-Value=0.100000001
+Value=0.110000001
 DamageType=DT_ANY
 AutoType=1
 ValidType=""
