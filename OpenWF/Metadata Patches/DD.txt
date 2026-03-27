@@ -6,7 +6,7 @@ s|Value=2|Value=6
 s|Value=2|Value=6
 #WWWZZZDDDLL
 /Lotus/Types/Boosters/ResourceDropChanceBooster 
-s|Value=2|Value=6
+s|Value=2|Value=4
 #MMMMMDDDL
 /Lotus/Types/Boosters/ModDropChanceBooster
-r|Value=2|Value=6
+r|Value=2|Value=4
