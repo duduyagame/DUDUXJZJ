@@ -14,7 +14,7 @@ Upgrades={
 {
 UpgradeType=AVATAR_HEALTH_MAX
 OperationType=STACKING_MULTIPLY
-Value=0.35
+Value=0.4
 DamageType=DT_ANY
 AutoType=0
 ValidType=""
@@ -41,7 +41,7 @@ AllowConditionalLocMerge=0
 {
 UpgradeType=AVATAR_SHIELD_MAX
 OperationType=STACKING_MULTIPLY
-Value=0.35
+Value=0.4
 DamageType=DT_ANY
 AutoType=0
 ValidType=""
