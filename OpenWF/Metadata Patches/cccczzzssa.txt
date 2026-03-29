@@ -61,13 +61,13 @@ FusionLimit=QA_MEDIUM
 Script={
 Script=MaxOrdnanceMunitions.lua
 Function=ModApplied
-_maxAmmoPct=1.525
+_maxAmmoPct=1.125
 _ammoType=/Lotus/Weapons/CrewShip/Missiles/MissileAmmo
 }
 UnappliedScript={
 Script=MaxOrdnanceMunitions.lua
 Function=ModUnapplied
-_maxAmmoPct=1.525
+_maxAmmoPct=1.125
 _ammoType=/Lotus/Weapons/CrewShip/Missiles/MissileAmmo
 }
 UpgradeType=CSUT_SECONDARY_WEAPONS
