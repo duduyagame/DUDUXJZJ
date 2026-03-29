@@ -144,7 +144,7 @@ AllowConditionalLocMerge=0
 {
 UpgradeType=AVATAR_DAMAGE_TAKEN
 OperationType=MULTIPLY
-Value=12.0
+Value=0.12
 DamageType=DT_ELECTRICITY
 AutoType=0
 ValidType=""
