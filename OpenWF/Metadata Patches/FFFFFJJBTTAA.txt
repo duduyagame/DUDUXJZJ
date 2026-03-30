@@ -1,3 +1,6 @@
+/Lotus/Upgrades/Mods/Archwing/Suit/ArchwingSuitAbilityStrengthMod
+$$clear
+
 Rarity=RARE
 MarketMode=MM_HIDDEN
 LocalizeTag=/Lotus/Language/Items/ArchwingSuitAbilityStrengthMod
