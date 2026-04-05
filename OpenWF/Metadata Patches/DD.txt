@@ -1,6 +1,6 @@
 #XXXP 2-> 20000
 /Lotus/Types/Boosters/AffinityBooster
-s|Value=2|Value=4
+s|Value=2|Value=7
 #WWWZ
 /Lotus/Types/Boosters/ResourceAmountBooster
 s|Value=2|Value=4
